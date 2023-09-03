@@ -52,3 +52,9 @@ So having a awakening stage kind of understanding over wide pattern and having m
 1. Singleton 
 
 > Note : Sometime we need to combine two or more pattern to have more optimal solution .
+
+## Three types of design pattern
+
+1. Structural : How different object compose (joining together) to form large structure example : Adapter
+2. Behavioural : How the objects or classes interact with each others example : strategy
+3. Creational : How the object created for different context/ situation example : Singleton
