@@ -23,17 +23,17 @@ Design patterns are general solutions to commonly occurring problems in a contex
 - Motivation/applicability or scenario: The context or scenerio the pattern suits very well.
 - Participant : what are the classes or interface etc., it going to have
 - Collabration : How the participant going to interface with each other
-- Consequences : As every pattern have some tradeoff alomg with it
-- Implemetation : How to implement in programming language 
+- Consequences : As every pattern have some tradeoff along with it
+- Implementation : How to implement in programming language 
 - Sample code : Sample code for implementation
-- Real time : Is there application using tthe pattern in real world
+- Real time : Is there application using the pattern in real world
 
 ## How to learn pattern
 
 As Experienced people suggest, there are four stages to learn a design pattern or anything
 
 1. Ignorance : Not knowing anything starting from basic  
-1. Awakening : knowing about the pattern exist but don't know how to implement (knowing name, indent, Motivation)
+1. Awakening : knowing about the pattern exist but don't know how to implement (knowing name, intent, Motivation)
 1. OverZealous: Particing the pattern in a controlled environment ( Not in the production code)
 1.  Mastery : After become expert we try to find the pattern fit the application very easily and make better coding
 
