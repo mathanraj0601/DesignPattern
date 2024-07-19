@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github learning\\Design pattern\\DesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09F89577-B26B-4465-ACB7-9A198EBD632F}|AdapterPattern\\AdapterPattern.csproj|d:\\github learning\\design pattern\\designpattern\\adapterpattern\\class based\\xmltojsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F89577-B26B-4465-ACB7-9A198EBD632F}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\class based\\xmltojsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F89577-B26B-4465-ACB7-9A198EBD632F}|AdapterPattern\\AdapterPattern.csproj|d:\\github learning\\design pattern\\designpattern\\adapterpattern\\class based\\iadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F89577-B26B-4465-ACB7-9A198EBD632F}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\class based\\iadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F89577-B26B-4465-ACB7-9A198EBD632F}|AdapterPattern\\AdapterPattern.csproj|d:\\github learning\\design pattern\\designpattern\\adapterpattern\\class based\\analyticstool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F89577-B26B-4465-ACB7-9A198EBD632F}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\class based\\analyticstool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F89577-B26B-4465-ACB7-9A198EBD632F}|AdapterPattern\\AdapterPattern.csproj|d:\\github learning\\design pattern\\designpattern\\adapterpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F89577-B26B-4465-ACB7-9A198EBD632F}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F89577-B26B-4465-ACB7-9A198EBD632F}|AdapterPattern\\AdapterPattern.csproj|d:\\github learning\\design pattern\\designpattern\\adapterpattern\\object based\\xmltojsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F89577-B26B-4465-ACB7-9A198EBD632F}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\object based\\xmltojsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F89577-B26B-4465-ACB7-9A198EBD632F}|AdapterPattern\\AdapterPattern.csproj|d:\\github learning\\design pattern\\designpattern\\adapterpattern\\object based\\iadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F89577-B26B-4465-ACB7-9A198EBD632F}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\object based\\iadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F89577-B26B-4465-ACB7-9A198EBD632F}|AdapterPattern\\AdapterPattern.csproj|d:\\github learning\\design pattern\\designpattern\\adapterpattern\\object based\\analyticstool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F89577-B26B-4465-ACB7-9A198EBD632F}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\object based\\analyticstool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnalyticsTool.cs",
+              "DocumentMoniker": "D:\\Github learning\\Design pattern\\DesignPattern\\AdapterPattern\\Object Based\\AnalyticsTool.cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\Object Based\\AnalyticsTool.cs",
+              "ToolTip": "D:\\Github learning\\Design pattern\\DesignPattern\\AdapterPattern\\Object Based\\AnalyticsTool.cs",
+              "RelativeToolTip": "AdapterPattern\\Object Based\\AnalyticsTool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:34:41.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XMLtoJSONConverter.cs",
+              "DocumentMoniker": "D:\\Github learning\\Design pattern\\DesignPattern\\AdapterPattern\\Class Based\\XMLtoJSONConverter.cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\Class Based\\XMLtoJSONConverter.cs",
+              "ToolTip": "D:\\Github learning\\Design pattern\\DesignPattern\\AdapterPattern\\Class Based\\XMLtoJSONConverter.cs",
+              "RelativeToolTip": "AdapterPattern\\Class Based\\XMLtoJSONConverter.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:47:32.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAdapter.cs",
+              "DocumentMoniker": "D:\\Github learning\\Design pattern\\DesignPattern\\AdapterPattern\\Object Based\\IAdapter.cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\Object Based\\IAdapter.cs",
+              "ToolTip": "D:\\Github learning\\Design pattern\\DesignPattern\\AdapterPattern\\Object Based\\IAdapter.cs",
+              "RelativeToolTip": "AdapterPattern\\Object Based\\IAdapter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:44:26.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XMLtoJSONConverter.cs",
+              "DocumentMoniker": "D:\\Github learning\\Design pattern\\DesignPattern\\AdapterPattern\\Object Based\\XMLtoJSONConverter.cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\Object Based\\XMLtoJSONConverter.cs",
+              "ToolTip": "D:\\Github learning\\Design pattern\\DesignPattern\\AdapterPattern\\Object Based\\XMLtoJSONConverter.cs",
+              "RelativeToolTip": "AdapterPattern\\Object Based\\XMLtoJSONConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:36:23.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github learning\\Design pattern\\DesignPattern\\AdapterPattern\\Program.cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\Program.cs",
+              "ToolTip": "D:\\Github learning\\Design pattern\\DesignPattern\\AdapterPattern\\Program.cs",
+              "RelativeToolTip": "AdapterPattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:33:29.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnalyticsTool.cs",
+              "DocumentMoniker": "D:\\Github learning\\Design pattern\\DesignPattern\\AdapterPattern\\Class Based\\AnalyticsTool.cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\Class Based\\AnalyticsTool.cs",
+              "ToolTip": "D:\\Github learning\\Design pattern\\DesignPattern\\AdapterPattern\\Class Based\\AnalyticsTool.cs",
+              "RelativeToolTip": "AdapterPattern\\Class Based\\AnalyticsTool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:47:22.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAdapter.cs",
+              "DocumentMoniker": "D:\\Github learning\\Design pattern\\DesignPattern\\AdapterPattern\\Class Based\\IAdapter.cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\Class Based\\IAdapter.cs",
+              "ToolTip": "D:\\Github learning\\Design pattern\\DesignPattern\\AdapterPattern\\Class Based\\IAdapter.cs",
+              "RelativeToolTip": "AdapterPattern\\Class Based\\IAdapter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:48:16.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
