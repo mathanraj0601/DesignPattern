@@ -4,7 +4,6 @@ namespace DesignPattern.code.Null_Object_Pattern
 {
     public class NullObjectPattern
     {
-     
         public void Demo()
         {
             Car realCar = new RealCar();
@@ -14,8 +13,6 @@ namespace DesignPattern.code.Null_Object_Pattern
 
             carService.Service(realCar);
             carService.Service(nullCar);
-
         }
-
     }
 }
